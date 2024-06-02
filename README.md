@@ -22,11 +22,12 @@ Contact Section: A contact form for visitors to get in touch with the gym. This 
 Membership Sign-Up: A prominent call-to-action for visitors to sign up for a gym membership. This can include a form or a link to an external sign-up page.
 
 
-Live Project Link:https://gauravbangar.github.io/Gym-Lading-Page/
-
 Footer: A footer with links to the gym’s social media profiles, privacy policy, terms of service, and other relevant information.
 
 Technologies Used
 HTML5: To structure the content of the landing page.
 CSS3: To style the landing page, including layout, colors, fonts, and responsive design.
 JavaScript: To add interactivity to the page, such as the testimonials carousel, smooth scrolling, and form validation.
+
+
+Live Project Link:https://gauravbangar.github.io/Gym-Lading-Page/
